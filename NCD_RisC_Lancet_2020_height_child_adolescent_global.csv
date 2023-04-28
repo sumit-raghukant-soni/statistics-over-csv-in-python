@@ -1,4 +1,4 @@
-"Sex","Year","Age group","Mean height","Mean height lower 95% uncertainty interval","Mean height upper 95% uncertainty interval","Mean height standard error"
+"Sex" ,"Year","Age group","Mean height","Mean height lower 95% uncertainty interval","Mean height upper 95% uncertainty interval","Mean height standard error"
 "Boys",1985,5,105.649051907163,105.159634784185,106.172845967581,0.258115468881896
 "Boys",1985,6,111.635352279368,111.190655330914,112.078229912474,0.227526224720303
 "Boys",1985,7,117.189490816527,116.778452633891,117.595601312668,0.210784409059478
